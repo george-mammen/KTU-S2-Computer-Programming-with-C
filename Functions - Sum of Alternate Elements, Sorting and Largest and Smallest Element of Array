@@ -1,3 +1,9 @@
+/* 
+Find the sum of alternate elements of an array. Return this sum. From main() print the array and the
+sum.Sort the array. The function shall return the sorted result as another array. The original array should not
+be modified. From the main() print both the arrays.Find the largest and smallest elements of the array without sorting. Store these two values into another
+array of size two. Return this array. From the main() print the array and the results. */
+
 #include<stdio.h>
 
 int sumalt(int arr[10])
