@@ -1,5 +1,23 @@
 // Name:George Mammen
-// Roll Number:25
+/* Create a 2D array representing roll number, mark 1, mark 2, mark 3 of N students. Use N calculated as
+suggested at the beginning of the question paper.
+Roll numbers are to be computed starting from 201 consecutively. Marks are to be read using scanf from
+keyboard input.
+Do not read N or roll numbers via scanf.
+Print the data with appropriate headings.
+(a) Calculate manually: k = R % 3 + 1
+Print all the details of the students who have scored highest in exam k
+(b) Print all the details of the students who have scored ≥ 45 marks in at least one exam
+(c) Calculate manually, rn = R % N + 201
+Print the details and total marks of the student with roll number rn */
+
+/* Finding R & N:
+Let R be your roll number + 30
+N = R %10; if (N < 4) then N += 5 */
+
+
+
+
 #include<stdio.h>
 void main()
 {
