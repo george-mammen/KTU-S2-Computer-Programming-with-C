@@ -1,7 +1,6 @@
 // Name:George Mammen
-// Roll Number:25
 
-/* Possible Question:
+/* Question:
  Write a C Program to read and print the marks of 'r' students and calculate their sessional marks using functions.  
  Use function readmarks to read the marks of students under the heads of two Assignments and two Tests conducted and marks obtained for attendance into a 2D Array 
  Use function printmarks to print the entered marks under their corresponding heads
