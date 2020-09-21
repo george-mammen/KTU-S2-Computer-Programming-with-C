@@ -1,5 +1,6 @@
 // Name : George Mammen
-// Roll No: 25
+/* Sort an array. The function shall return the sorted result as another array. The original array should not
+be modified. From the main() print both the arrays.*/
 
 #include<stdio.h>
 
