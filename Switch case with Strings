@@ -1,5 +1,16 @@
 // Name:George Mammen
-// Roll Number:25
+/*Using gets read your name into a string variable myname.
+Determine len = length of the input using relevant string function. Print it.
+Note this number and calculate manually k = len % 6
+Continue coding... (Write code corresponding to your case only)
+ if k==0 Concatenate ”My name is: ” in front of myname. Then print it using puts.
+ if k==1 Concatenate ” : is My name \n” at the end of myname. Then print it using printf.
+ if k==2 Copy myname to another variable and print it using puts.
+ if k==3 Copy myname to another variable and print it using printf.
+ if k==4 Concatenate ”My name is: ” in front of myname. Then print it using printf.
+ if k==5 Concatenate ” : is My name \n” at the end of myname. Then print it using puts.*/
+
+
 #include<stdio.h>
 #include<string.h>
 int main()
