@@ -1,5 +1,10 @@
 // Name:George Mammen
-// Roll Number:25
+
+
+/*Write a function to compute a^b (i.e. a multiplied b times).
+From main() call this function to compute the value of a polynomial of the form
+a_nx^n +  ... + a_1x + a0 */
+
 
 #include <stdio.h>
 #include <math.h>
