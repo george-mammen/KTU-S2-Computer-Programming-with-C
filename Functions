@@ -1,5 +1,21 @@
 //Name: George Mammen
-//Roll No:25
+/*Write three functions a(), b(), c() 
+
+main() reads an input value n from standard input.
+calls a() with n as argument.
+a() reads an array of n integers ar1[] from standard input and returns ar1[] to main().
+
+main() calls b() with ar1[] and n as arguments.
+b() prints the array.
+
+main() then calls c() with  ar1[] and n as arguments.
+c() sorts the array and returns the sorted version as ar2[].
+Keep ar1[] intact.
+
+main() calls b() with ar1[] and n again.
+main() then calls b() with ar2[] and n. */
+
+
 #include<stdio.h>
 int i=0;
 
