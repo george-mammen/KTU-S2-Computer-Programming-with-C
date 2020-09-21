@@ -1,5 +1,7 @@
 //George Mammen
-// Roll Number :42
+/* Read the text file s2c.hl.txt,  then create another binary file  s2c.hl using structures with the same content as in the given file.
+Do not write the serial number into the  new file. All fields shall be characters or strings.
+The fields are - admno, rollno, name,  gender */
 
 #include <stdio.h>
 #include <stdlib.h>
