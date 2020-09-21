@@ -1,5 +1,17 @@
 // Name : George Mammen
-// Roll No: 25
+/* 
+Let r be your roll number (an integer between 1 and 62)
+Perform the following computations using a C program
+r1 ← (r + 10)2 + 999
+if r is odd
+. r ← first two digits of r1
+else
+. r ← last two digits of r1
+if (r < 10)
+. r+ ← 10
+let d3 ← r%3
+let d4 ← r%4
+Display r, d3, and d4 */
 
 #include<stdio.h>
 
