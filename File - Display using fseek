@@ -1,5 +1,5 @@
 // George Mammen
-// Roll Number: 25
+/* From s2c.hl display the details of 5 each students on either side of your roll number (exclude you).  Consider the roll numbers in a circular fashion. ie. next number after 62 is 01. Use seek file operation in the code. */
 #include <stdio.h>
 
 struct student
