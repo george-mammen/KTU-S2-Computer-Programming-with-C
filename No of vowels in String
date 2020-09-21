@@ -1,5 +1,6 @@
 // Name:George Mammen
-// Roll Number:25
+/* Using switch-case count the number of each vowel characters in an input string.
+Process all characters until EOF. */
 
 #include <stdio.h>
 #include<string.h>
