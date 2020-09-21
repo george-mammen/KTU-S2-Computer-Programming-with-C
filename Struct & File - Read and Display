@@ -1,5 +1,5 @@
 // Roll No- 25
-// Name - George Mammen
+/* Using the structure as used to create  s2c.hl yesterday, read and display the following details: Roll number, Name */
 
 #include <stdio.h>
 
