@@ -1,3 +1,3 @@
 <h1>Programming with C</h1>
 
-These are few important C programs .
+Compilation of a couple of programs submitted during the course .
